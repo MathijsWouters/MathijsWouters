@@ -25,7 +25,7 @@ Right now I'm working on some private projects, including Minecraft plugins and 
 
 ## 🔗 Portfolio
 
-🌐 [Visit my website]([https://your-website-link.com](https://www.mathijs-portofolio.be/))
+🌐 [Visit my website](https://www.mathijs-portofolio.be/)
 
 ---
 
